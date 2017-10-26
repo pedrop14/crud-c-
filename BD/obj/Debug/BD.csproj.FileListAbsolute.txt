@@ -1,0 +1,21 @@
+C:\Users\Pedro Amado\Desktop\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Pedro Amado\Desktop\BD\BD\bin\Debug\BD.exe
+C:\Users\Pedro Amado\Desktop\BD\BD\bin\Debug\BD.pdb
+C:\Users\Pedro Amado\Desktop\BD\BD\bin\Debug\MySql.Data.dll
+C:\Users\Pedro Amado\Desktop\BD\BD\bin\Debug\MySql.Data.xml
+C:\Users\Pedro Amado\Desktop\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Amado\Desktop\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Pedro Amado\Desktop\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Pedro Amado\Desktop\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Pedro Amado\Desktop\BD\BD\obj\Debug\BD.exe
+C:\Users\Pedro Amado\Desktop\BD\BD\obj\Debug\BD.pdb
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\bin\Debug\BD.exe
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\bin\Debug\BD.pdb
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\bin\Debug\MySql.Data.xml
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\obj\Debug\BD.exe
+C:\Users\Pedro Amado\OneDrive\SISTEMAS DE INFORMAÇÃO PUC\3º PERÍODO\Banco de Dados\BD\BD\obj\Debug\BD.pdb
